@@ -1,0 +1,3 @@
+port=1701
+name=Chat
+banned_phrases=spam,curse,ban
